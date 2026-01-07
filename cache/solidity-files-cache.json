@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\project\\labrox\\profile projects\\Broken dApp Fix TokenVault Case Study\\broken-dapp-fix\\contracts\\token_vault_contract.sol": {
+      "lastModificationDate": 1767446667542,
+      "contentHash": "b1a658ccbba3326e4ad792ebd3f950d9",
+      "sourceName": "contracts/token_vault_contract.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "TokenVault"
+      ]
+    }
+  }
+}
